@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python4
 from consolemenu import ConsoleMenu
 from consolemenu.items import FunctionItem, SubmenuItem, CommandItem
 from generativepoetry.pdf import *
