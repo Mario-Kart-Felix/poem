@@ -1,0 +1,13 @@
+pretty-jason {
+	font-family: "Menlo", "Monaco", "Consolas", monospace;
+	font-size: 12px;
+	padding: 0;
+	color: rgb(136, 18, 128);
+}
+
+.pretty-jason-value-number {
+	color: rgb(28, 0, 207);
+}
+
+.pretty-jason-value-string {
+    color: rgb(196, 26, 22);
